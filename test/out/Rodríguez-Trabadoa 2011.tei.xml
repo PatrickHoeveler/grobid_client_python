@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Monitoring omalizumab treatment efficacy in chronic urticaria by the basophil activation test</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">Monitoring omalizumab treatment efficacy in chronic urticaria by the basophil activation test</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">FED0DC1C782BCDCEABD89403DCA24FE5</idno>
+					<idno type="DOI">10.1016/j.aller.2011.09.009</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.0" ident="GROBID" when="2021-11-15T13:14+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>To the Editor,</head><p><s>The mechanism leading to chronic urticaria often remains unclear.</s><s>Up to half of patients are thought to have functional circulating IgG auto antibodies against the high-affinity IgE receptor (FcRI␣) or, in a few cases, even against IgE. <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b1">2</ref></s><s>hese antibodies are able to release histamine in vitro from basophils and mast cells.</s><s>The expression of the basophil activation marker CD63 can be induced in healthy subjects by chronic urticaria sera patients with positive autologous serum skin test (ASST). <ref type="bibr" target="#b2">3</ref></s><s>A lowering in the CD63 expression after cyclosporine treatment has been assessed. <ref type="bibr" target="#b2">3</ref></s><s>The efficacy of omalizumab treatment has been shown in patients with chronic urticaria, <ref type="bibr">4 ---7</ref> and even in many ASS negative test patients. <ref type="bibr" target="#b6">7</ref></s><s>e report the case of a 49-year-old female patient, who had suffered from chronic urticaria for 18 months.</s><s>The severity of the clinical condition progressively increased and soles angio-oedema was added in the last episodes.</s><s>The disease became uncontrolled despite high doses of antihistamines and low corticosteroid doses every 48 h, so many steroid cycles were required every month.</s><s>Taking into account that autoimmune aetiology is often related to severe urticaria cases, treatment with omalizumab was indicated.</s><s>Asthma doses for omalizumab were used.</s><s>In this case, 300 mg every two weeks was prescribed.</s><s>Steroid treatment was stopped one week after the first dose, and no new episodes occurred after the beginning of the treatment.</s><s>Skin prick tests were negative for aliments, latex, anisakis and positive for olea.</s></p><p><s>Autologous serum skin test was also negative.</s><s>Serum complement levels (C2, C4), gave normal results.</s></p><p><s>Proteinogram, serum immunoglobulins (IgA, IgG, IgM), thyroid function, haemogram and general biochemical serum tests were also normal.</s></p><p><s>The screening for autoimmune disease, including antithyroid antibodies, was negative.</s></p><p><s>Basophil activation test was performed before beginning the administration of omalizumab and after several doses of treatment, taking the serum of the patient as stimulus.</s><s>All the samples were drawn immediately before the next dose administration, thus two weeks after the treatment with omalizumab.</s><s>The test was performed with the blood of atopic and non-atopic donors without urticaria, employed to study their basophil response after confrontation with the serum of the patient.</s><s>Other tests were performed, taking the sera of patients with autoimmune disease as stimulus, to exclude other autoimmune conditions acting as confounding factors; and with the sera of patients with acute urticaria, to evaluate the autoimmune mechanism of chronic urticaria, in contrast with the acute condition.</s><s>Informed consent was obtained from the patient and the healthy donors.</s></p><p><s>The assay was performed in accord with the protocol previously described. <ref type="bibr" target="#b7">8</ref></s><s>The percentage of basophils expressing CD63 with high affinity was the variable used to determine basophil activation.</s><s>Briefly, a heparinised blood sample was drawn from the donors and aliquotted to test several stimulus.</s><s>A stimulation buffer (containing IL-3) was first added for ten minutes.</s><s>Each sample was tested with a negative control (serum saline), a positive control (the chemotactic peptide N-formylmethionyl-leucyl-phenylanine, that induces basophil activation) and the different sera studied as stimulus.</s><s>A double blinding was carried out with CD203, to select the basophil population, and CD63, to detect its activation.</s><s>After a lysing and washing process, the analysis was performed by flow cytometry (approximately 800 basophils per sample).</s><s>The analysis gate was defined around cells showing high-density CD203c label and low side-scatter, identified as basophils.</s><s>For inhalants, the test result is considered positive when at least 15% of basophils become activated after the stimulus addition.</s></p><p><s>Before beginning the treatment, activation even higher than that induced by the positive control was seen in donors (Table <ref type="table" target="#tab_0">1</ref> and Fig. <ref type="figure">1</ref>).</s><s>After one, two, six and twelve doses of treatment, the activation induced by the serum patient decreased to values similar to the negative control or slightly higher than this.</s><s>In contrast, no evidence of significant activation was seen in donors in whom sera of healthy individuals or patients with autoimmune disease or urticaria were added.</s></p><p><s>We can conclude that: firstly, in this case, the BAT performed with the serum patient strongly suggested an autoimmune aetiology for the chronic urticaria process and a possible successful treatment with omalizumab.</s><s>Secondly, an early decrease in the serum-induced basophil activation coincided with a satisfactory clinical evolution.</s><s>Moreover, in ASST negative chronic urticaria patients, BAT could be an alternative method to check a possible autoimmune aetiology of the disease.</s><s>No previous cases of chronic urticaria patients following treatment with omalizumab and monitoring by BAT have been reported.</s></p><p><s>A. Rodríguez-Trabado a, * , L.M. Fernández Pereira b , S. Romero-Chala b , J.A. García-Trujillo b , C. Cámara Hijón b a Campo Arañuelo Hospital, Allergy Department, Alcalde Yuste Miron Avenue, 10300, Navalmoral de la Mata, Cáceres, Spain b San Pedro de Alcántara Hospital, Immunology Department, Pablo Naranjo Avenue, Cáceres, Spain * Corresponding author.</s><s>E-mail addresses: trabadoro@yahoo.es</s><s>(A.</s><s>Rodríguez-Trabado), 927230289@telefonica.net (L.M. Fernández Pereira), silviachala@hotmail.com (S.</s><s>Romero-Chala), kkx3@hotmail.com</s><s>(C.</s><s>Cámara Hijón).</s><s>doi:10.1016/j.aller.2011.09.009</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Systemic allergic reaction due to intranasal budesonide</head><p><s>To the Editor, Topical corticosteroids are frequently recognised as a cause of allergic contact dermatitis but in only few cases the administration of intranasal corticosteroids has been reported as the cause of systemic allergic reaction. <ref type="bibr">1 ---6</ref></s><s> 34-year-old non-atopic woman started treatment with nasal budesonide for a common cold.</s><s>On the second day of treatment the patient developed, 8 h after the administration of 256 mcg (two puff per nostril each time), lips, nose, and eyelid angioedema and pruritic urticarial papules in face, chest and arms.</s><s>The symptoms remitted gradually over 3 ---4 days after treatment with hydroxyzine.</s><s>Previously the patient had tolerated nasal budesonide without adverse effects.</s></p><p><s>Prick and intradermal test were performed with a battery of corticosteroids (hydrocortisone, methylprednisolone, budesonide, triamcinolone, deflazacort and dexamethasone) (Table <ref type="table" target="#tab_0">1</ref>) with the excipients carboxymethylcellulose, Tween 80, and benzylalcohol.</s><s>Prick tests were considered positive when a wheal of more than 3 mm in diameter was present 15 min later.</s><s>When prick test responses were negative 0.02---0.05</s><s>ml of the reagent solution was injected intradermally.</s><s>Readings were made 20 min after injection.</s><s>Results were considered positive when wheal and erythema greater than 5 mm were present.</s><s>Positive control for prick and intradermal tests were done with histamine, at 10 mg/ml and 1 mg/ml respectively.</s><s>Sterile 0.9% saline was used as a negative control.</s><s>Te n non-atopic and ten atopic subjects were also tested as a control.</s></p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc><div><p><s>Percentage of activated basophils after stimulus with different sera.</s><s>CU-s, chronic urticaria serum; AID-s, autoimmune disease serum; AU-s, acute urticaria serum; HD-s, healthy donor serum; NA, non-atopic.</s><s>Basophil activation changes throughout the treatment with omalizumab.</s></p></div></figDesc><table><row><cell>Stimulus</cell><cell>% Activated basophils</cell></row><row><cell>Donor 1 (NA)</cell><cell></cell></row><row><cell>Negative control</cell><cell>2.50%</cell></row><row><cell>Positive control</cell><cell>74.40%</cell></row><row><cell>CU-s before treatment</cell><cell>82.3%</cell></row><row><cell>CU-s after one dose</cell><cell>2.0%</cell></row><row><cell>AI disease serum</cell><cell>3.10%</cell></row><row><cell>HD-serum</cell><cell>4.70%</cell></row><row><cell>Donor 2 (A)</cell><cell></cell></row><row><cell>Negative control</cell><cell>2.10%</cell></row><row><cell>Positive control</cell><cell>13%</cell></row><row><cell>CU-s after two doses</cell><cell>2%</cell></row><row><cell>AU-s</cell><cell>0.60%</cell></row><row><cell>Donor 3 (NA)</cell><cell></cell></row><row><cell>Negative control</cell><cell>2.20%</cell></row><row><cell>Positive control</cell><cell>62.5%</cell></row><row><cell>CU-s after two doses</cell><cell>13%</cell></row><row><cell>AU-s</cell><cell>7.80%</cell></row><row><cell>Donor 4 (NA)</cell><cell></cell></row><row><cell>Negative control</cell><cell>5.50%</cell></row><row><cell>Positive control</cell><cell>66.2%</cell></row><row><cell>CU-s after two doses</cell><cell>11%</cell></row><row><cell>AU-s</cell><cell>7.80%</cell></row><row><cell>Donor 5 (A)</cell><cell></cell></row><row><cell>Negative control</cell><cell>3.30%</cell></row><row><cell>Positive control</cell><cell>18.7%</cell></row><row><cell>CU-s after six doses</cell><cell>6%</cell></row><row><cell>AU-s</cell><cell>3%</cell></row><row><cell>Donor 6 (NA)</cell><cell></cell></row><row><cell>Negative control</cell><cell>4.60%</cell></row><row><cell>Positive control</cell><cell>48.20%</cell></row><row><cell>CU-s after twelve doses</cell><cell>2.20%</cell></row></table><note><p><s>0301-0546/$ -see front matter © 2011 SEICAP.</s><s>Published by Elsevier España, S.L.</s><s>All rights reserved.</s></p></note></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflict of interest</head><p><s>There is not any conflict of interest to disclose.</s><s>Funding has been completely obtained from Fundesalud (the public foundation for research and education of health care workers in Extremadura) and there has not been any intervention of the Pharmaceutical Industry.</s><s>30 mg/ml ------Patch tests conveyed in petrolatum were performed with the same battery of corticosteroids.</s><s>The patches were placed on normal skin on the patient's back and removed after 2 days.</s><s>Visual reading was carried out on day 2, day 3, and on day 7. Reactions were scored according to the International Contact Dermatitis Research Group. <ref type="bibr" target="#b6">7</ref></s><s>ingle-blind, placebo-controlled tests with other corticosteroids were performed to evaluate a possible cross-reactivity.</s></p><p><s>Prick tests with corticosteroids battery and excipients were negative.</s><s>Intradermal test with budesonide was positive at 48 h and negative with the rest of tested corticosteroids and excipients.</s><s>In all control subjects, prick and intradermal tests were negative.</s></p><p><s>Patch tests were positive only with budesonide at 48 h (day 2) showed a +++ reaction and persisted on day 3 (+++) and on day 7 (++).</s></p><p><s>Single-blind, placebo-controlled challenge tests with intravenous hydrocortisone and deflazacort (oral) were performed with good tolerance.</s></p><p><s>We report a case of systemic allergic reaction after the administration of intranasal budesonide confirmed by positive results in patch and intradermal test and without cross-reactivity with others corticosteroids.</s><s>The prevalence of corticosteroid-induced allergic contact dermatitis ranges from 0.2% to 6% according to the different patient series.</s><s>In only few cases the administration of intranasal corticosteroids has been reported as the cause of hypersensitivity systemic symptoms and as in our case report, budesonide is the most commonly corticosteroid implicated. <ref type="bibr" target="#b7">8</ref></s><s>On the basis of stereochemistry, corticosteroids are classified into five groups: A, B, C, D1, and D2.</s><s>Substances from the same group are thought to cross-react although this is not universally</s></p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Autoantibodies against the high-affinity IgE Receptor as a cause of histamine release in chronic urticaria</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hide</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Francis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Grattan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hakimi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kochan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Greaves</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">328</biblScope>
+			<biblScope unit="page" from="1599" to="1604" />
+			<date type="published" when="1993" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Chronic idiopathic urticaria with functional autoantibodies: 12 years on</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Sabroe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Greaves</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Dermatol</title>
+		<imprint>
+			<biblScope unit="volume">154</biblScope>
+			<biblScope unit="page" from="813" to="819" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Seruminduced basophil CD63 expression by means of a tricolour flow cytometric method for the in vitro diagnosis of chronic urticaria</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Frezzolini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Provini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Teofoli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Pomponi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Pità</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Allergy</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="1071" to="1077" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Treatment of chronic autoimmune urticaria with omalizumab</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Kaplan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Joseph</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Maykut</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Geba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Zeldin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Allergy Clin Immunol</title>
+		<imprint>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="page" from="569" to="573" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Down regulation of the high-affinity IgE receptor associated with successful treatment of chronic idiopathic urticaria with omalizumab</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Saavedra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sur</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Mol Allergy</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Effective treatment of therapy-resistant chronic spontaneous urticaria with omalizumab</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Magerl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Staubach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Altrichter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ardelean</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Krause</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Metz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Allergy Clin Immunol</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="page" from="665" to="666" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Effect of omalizumab on patients with chronic urticaria</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Spector</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ta N Ra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Allergy Asthma Immunol</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page" from="190" to="193" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Basophil activation test for the in vitro diagnosis of non-steroidal anti-inflammatory drug hypersensitivity</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rodríguez-Trabado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Cámara-Hijón</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ramos-Cantariño</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Porcel-Carreño</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jiménez-Timón</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Pereira-Navarro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Allergy Asthma Proc</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="241" to="249" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
